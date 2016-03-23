@@ -1,7 +1,9 @@
-# react-boilerplate
-_Template project for creating simple react applications_ using:
+# relay-boilerplate
+_Template project for creating react-relay-graphql applications_ using:
 
-**Node, Express, React, ES6, ES7, React-Router** 
+**Node, Express, React, ES6, ES7** 
+
+**GraphQL, Relay**
 
 **Webpack, HotModuleReplacement**
 
